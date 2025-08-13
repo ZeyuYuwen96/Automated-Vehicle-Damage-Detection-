@@ -1,6 +1,5 @@
 # Automated Vehicle Damage Detection (Multimodal Learning)
-
-This repository contains the code, cropped ROI images, and metadata for an automated vehicle damage detection pipeline.  
+This repository contains the code, a small sample of cropped ROI images, and metadata for an automated vehicle damage detection pipeline.  
 The project combines **computer vision** and **text metadata** to detect and classify vehicle damage, analogous to autonomous vehicle (AV) perception evaluation.
 
 The system is designed to:
